@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="movement.cpp">
+    <ClCompile Include="dungeon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="movement.h">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="random_enc.h">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
